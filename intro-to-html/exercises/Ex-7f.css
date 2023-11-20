@@ -1,0 +1,38 @@
+p {
+  color: gray;
+  font-family: arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 16px;
+}
+
+.email {
+  margin-bottom: 5px;
+}
+
+.email-box {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  width: 395px;
+  margin-bottom: 15px;
+  border-color:gray;
+  border-radius: 5px;
+  border-style: solid;
+}
+
+.terms {
+  margin-bottom: 10px;
+}
+
+.agree-btn {
+  background-color: rgb(10, 102, 194);
+  border: none;
+  color: white;
+  font-size: 18px;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  border-radius: 30px;
+  cursor: pointer;
+}

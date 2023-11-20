@@ -1,0 +1,56 @@
+.uber {
+  background-color: black;
+  color: white;
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+  vertical-align: top;
+}
+
+.uber:hover {
+  opacity: 0.8
+}
+
+.amazon {
+  background-color: rgb(255, 216, 20);
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 56px;
+  padding-right: 56px;
+  border-radius: 20px;
+  font-size: 15px;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: background-color 0.15s;
+  vertical-align: top;
+}
+
+.amazon:hover {
+  background-color: rgb(255, 136, 0);
+}
+
+.github {
+  background-color: rgb(46, 164, 79);
+  border: none;
+  color: white;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-radius: 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  transition: box-shadow 0.15s;
+}
+
+.github:hover {
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.15);
+}

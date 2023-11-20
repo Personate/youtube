@@ -1,0 +1,39 @@
+.link {
+  color: rgb(0, 113, 133);
+  font-size: 24px;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 36px;
+}
+
+.price {
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.promo {
+  font-size: 24px;
+}
+
+.cart {
+  background-color: rgb(255, 216, 20);
+  border: none;
+  width: 160px;
+  height: 40px;
+  border-radius: 20px;
+  font-size: 18px;
+  margin-right: 10px;
+}
+
+.buy {
+  background-color: rgb(255, 164, 28);
+  border: none;
+  width: 160px;
+  height: 40px;
+  border-radius: 20px;
+  font-size: 18px;
+  margin-right: 10px;
+}

@@ -1,0 +1,72 @@
+.div1 {
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+  width: 200px;
+  font-family: arial;
+  display: inline-block;
+  margin-right: 15px;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.img1, .img2, .img3 {
+  object-fit: cover;
+  width: 200px;
+  height: 200px;
+  margin-bottom: 10px;
+}
+
+.img1 {
+  object-position: center;
+}
+
+.img2 {
+  object-position: left;
+}
+
+.img3 {
+  object-position: right;
+}
+
+.name1, .add-btn, .mutual-pp {
+  margin-left: 10px;
+}
+
+.friend {
+  color:gray;
+  vertical-align: middle;
+  display: inline-block;
+  margin-left: 5px;
+  }
+
+.name1 {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.mutual-pp {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  object-fit: cover;
+  vertical-align: middle;
+}
+
+.mutual-friend-row {
+  margin-bottom: 10px;
+}
+
+.add-btn {
+  border: none;
+  background-color: rgb(0, 140, 255);
+  color:white;
+  border-radius: 8px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 18px;
+  padding-right: 18px;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
